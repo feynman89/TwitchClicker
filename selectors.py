@@ -1,0 +1,6 @@
+find_button_selector = "[class=\"tw-button tw-button--success tw-interactive\"]"
+sing_up_button_selector = "[data-a-target=\"login-button\"]"
+input_login_id = "login-username"
+input_password_id = "password-input"
+button_join_selector = "[data-a-target=\"passport-login-button\"]"
+tag_for_space_press = "body"
