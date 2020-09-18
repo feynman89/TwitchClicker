@@ -134,3 +134,6 @@ dmypy.json
 # Personal cookies and geckodriver
 cookies.pkl
 geckodriver.log
+
+# Stat file
+stat.txt
